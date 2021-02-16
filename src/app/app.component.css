@@ -1,0 +1,14 @@
+.mat-tab-group{
+  padding: 5px;
+}
+img{
+  max-width: 75%;
+  max-height: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: auto;
+  padding-bottom: 0%;
+}
+
